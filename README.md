@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<!-- ![MasterHead](https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640) -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhtg209&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhtg209" /> </p>
+<img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
+<br><br>
+<h1 style="color:blue" align="right">Hi 👋, I'm Rishabh Gupta</h1>
+<h3 align="right">MERN Stack Developer</h3>
+
+
+
+
+<br><br><br>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
 - 🌱 I’m currently learning **Full Stack course**
 
