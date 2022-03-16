@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhtg209&show_icons=true&locale=en" alt="rishabhtg209" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhtg209&" alt="rishabhtg209" /></p>
+<br>
+<img alt="Rishabh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RishabhTG209&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
