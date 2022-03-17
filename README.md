@@ -6,12 +6,13 @@
 <br><br>
 <h1 style="color:blue" align="right">Hi 👋, I'm Rishabh Gupta</h1>
 <h3 align="right">MERN Stack Developer</h3>
+<br><br>
+
+# Brief about ME
+I have Bachelors degree in Computer Science. Dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+<br><br>
 
 
-
-
-<br><br><br>
-<br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
 - 🌱 I’m currently learning **Full Stack course**
