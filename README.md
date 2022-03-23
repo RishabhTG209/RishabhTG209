@@ -41,7 +41,7 @@ I have Bachelors degree in Computer Science. Dedicated  and  determined  aspirin
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhtg209&show_icons=true&locale=en&layout=compact" alt="rishabhtg209" />
-<img align="center" height="450px" width="450px" src="https://github-readme-stats.vercel.app/api?username=rishabhtg209&show_icons=true&locale=en" alt="rishabhtg209" />
+<img align="center" height="250px" width="450px" src="https://github-readme-stats.vercel.app/api?username=rishabhtg209&show_icons=true&locale=en" alt="rishabhtg209" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhtg209&" alt="rishabhtg209" /></p>
